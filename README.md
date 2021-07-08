@@ -1,3 +1,3 @@
-# Data-science-projects
+# Data-science-Resources
 
-## this repository contains data science projects, code templates and resources 
+## this repository contains data science code templates and resources 
